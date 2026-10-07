@@ -31,7 +31,6 @@ The app presents a clean personal profile with contact information and social li
 
 
 
-
 ```text
 AnilCard
 ├── Profile Image
