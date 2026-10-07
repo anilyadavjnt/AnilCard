@@ -29,7 +29,6 @@ The app presents a clean personal profile with contact information and social li
 <img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-07 at 19 30 34" src="https://github.com/user-attachments/assets/9910dccc-b5c2-402c-86a7-1e713038c2e7" />
 
 
-
 ```text
 AnilCard
 ├── Profile Image
