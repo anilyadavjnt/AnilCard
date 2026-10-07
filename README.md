@@ -85,11 +85,12 @@ This project was created to practice and demonstrate **SwiftUI UI development**,
 ## 👨‍💻 Author
 
 **Anil Kumar Yadav**
+iOS Developer | Swift | UIKit
 
-iOS Developer | Swift | UIKit | SwiftUI | Firebase | REST APIs
+If you like this project, ⭐ **star the repository** and feel free to share your feedback!
 
-GitHub: https://github.com/anilyadavjnt
+Anil Yadav ( iOS Developer )
 
----
-
-⭐ If you find this project useful, consider giving it a star.
+* LinkedIn: www.linkedin.com/in/anilyadavjnt
+* Portfolio: https://portfolio-anilyadavjnt.vercel.app
+* Email: anilyadavjnt@gmail.com
